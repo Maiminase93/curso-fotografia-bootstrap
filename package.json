@@ -1,0 +1,16 @@
+{
+  "name": "curso-fotografia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "limpiacss": "purgecss --css  ./css/bootstrap.css --content ./indexManu.html --output ./css/optimizado.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "purgecss": "^7.0.2"
+  }
+}
