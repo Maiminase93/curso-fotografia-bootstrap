@@ -21,3 +21,12 @@
 .video-prueba>video{
     height: 100vh;
 }
+
+.mapa{
+    height: 40vh;   
+}
+
+.mapa iframe{
+    width: 100%;
+    height: 100%;
+}

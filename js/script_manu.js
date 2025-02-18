@@ -15,4 +15,4 @@ boton.addEventListener('click', ()=>{
         video.setAttribute('src', arrayVideos[0]);
         break;
     }
-})
+});
